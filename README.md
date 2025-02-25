@@ -4,7 +4,8 @@ Here's a `README.md` file for your fashion website project:
 
 # Fashion Website 🌟  
 
-![Fashion Banner](screenshots/banner.png)  
+![Fashion Banner](![image](https://github.com/user-attachments/assets/69236c45-abbe-48ee-9a8a-642e5ae50f34)
+)  
 
 A modern fashion marketplace built using the **MERN stack**, featuring seamless user experience, secure authentication, and stylish UI.  
 
