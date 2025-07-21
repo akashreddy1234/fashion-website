@@ -19,7 +19,6 @@ app.use(express.json())
 
 app.use(cors({
   origin: 'https://fashion-website-li6y.vercel.app', // ✅ Allow your frontend origin
-  credentials: true, // if you're using cookies
 }));
 
 
