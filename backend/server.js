@@ -18,8 +18,13 @@ connectCloudinary()
 app.use(express.json())
 
 app.use(cors({
-  origin: 'https://fashion-website-li6y.vercel.app', // ✅ Allow your frontend origin
+  origin: [
+    'https://fashion-website-li6y.vercel.app', // Frontend
+    'https://fashion-website-sdj8.vercel.app'  // Admin Panel
+  ],
+  credentials: true,
 }));
+
 
 
 
