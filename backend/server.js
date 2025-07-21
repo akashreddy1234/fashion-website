@@ -16,13 +16,12 @@ connectCloudinary()
 
 // middlewares
 app.use(express.json())
+
 app.use(cors({
-  origin: [
-    'http://localhost:5173', // for local dev
-    'https://fashion-website-2e4w.vercel.app', // your deployed frontend
-  ],
-  credentials: true
+  origin: 'https://fashion-website-li6y.vercel.app', // ✅ Allow your frontend origin
+  credentials: true, // if you're using cookies
 }));
+
 
 
 // api endpoints
