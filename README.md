@@ -2,7 +2,7 @@ Here's a `README.md` file for your fashion website project:
 
 ---
 
-# Fashion Website 🌟  
+# AARA Fashion Marketplace 🌟  
 
 ![Fashion Banner](![image](https://github.com/user-attachments/assets/69236c45-abbe-48ee-9a8a-642e5ae50f34)
 )  
