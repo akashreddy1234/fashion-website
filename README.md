@@ -1,11 +1,11 @@
-Here's a `README.md` file for your fashion website project:  
+Here’s the **fully updated `README.md` file** with the **Admin Login Details** section clearly highlighted and professionally formatted:
 
 ---
 
+````md
 # AARA Fashion Marketplace 🌟  
 
-![Fashion Banner](![image](https://github.com/user-attachments/assets/69236c45-abbe-48ee-9a8a-642e5ae50f34)
-)  
+The name **"AARA"** is derived from the initials of my family members: **Akash, Akhila, Ramesh, and Amrutha**. It represents a tribute to my roots and the people who inspire and support me.
 
 A modern fashion marketplace built using the **MERN stack**, featuring seamless user experience, secure authentication, and stylish UI.  
 
@@ -27,31 +27,47 @@ A modern fashion marketplace built using the **MERN stack**, featuring seamless 
 - **Database:** MongoDB (Mongoose ORM)  
 - **Hosting:** Vercel (Frontend), Render/Heroku (Backend)  
 
-
 ## 📦 Installation  
 
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/yourusername/fashion-website.git  
    cd fashion-website  
-   ```  
-2. Install dependencies:  
-   ```bash  
+````
+
+2. Install dependencies:
+
+   ```bash
    npm install  
    cd client && npm install  
-   ```  
-3. Start the development server:  
-   ```bash  
+   ```
+
+3. Start the development server:
+
+   ```bash
    npm run dev  
-   ```  
+   ```
 
-## 💡 Contribution  
+## 🔑 Admin Login Details
 
-Feel free to submit issues and pull requests to improve the project!  
+```
+Username: akash@example.com  
+Password: akash123
+```
 
-## 📜 License  
+> ✅ Use these credentials to access admin functionalities like adding products, managing orders, and viewing user activity.
 
-This project is licensed under the MIT License.  
+## 💡 Contribution
+
+Feel free to submit issues and pull requests to improve the project!
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+```
 
 ---
 
+Let me know if you want to include credentials for **buyers or sellers**, or if you'd like to add screenshots to this README as well.
+```
