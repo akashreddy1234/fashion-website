@@ -66,8 +66,3 @@ Feel free to submit issues and pull requests to improve the project!
 This project is licensed under the MIT License.
 
 ```
-
----
-
-Let me know if you want to include credentials for **buyers or sellers**, or if you'd like to add screenshots to this README as well.
-```
